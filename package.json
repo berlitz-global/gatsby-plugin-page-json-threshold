@@ -1,10 +1,15 @@
 {
   "name": "gatsby-plugin-page-json-threshold",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Post build audit the size of generated page-data.json files.",
+  "homepage": "https://github.com/berlitz-global/gatsby-plugin-page-json-threshold",
   "main": "gatsby-node.js",
   "author": "Jacob Impson <jacob.impson@berlitz.com>",
   "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
   "devDependencies": {
     "chalk": "^4.1.0",
     "recursive-readdir": "^2.2.2"
