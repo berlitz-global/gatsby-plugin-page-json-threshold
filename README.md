@@ -5,7 +5,13 @@ Audit and have visibility over the size of page-data.json files Gatsby is genera
 ## Usage
 
 Install the plugin.
-`npm install -D gatsby-plugin-page-json-threshold`
+
+With NPM
+```npm install -D gatsby-plugin-page-json-threshold```
+
+With Yarn
+`yarn add -D gatsby-plugin-page-json-threshold`
+
 
 Add plugin to your `gatsby-config.js`, here is a basic configuration.
 
